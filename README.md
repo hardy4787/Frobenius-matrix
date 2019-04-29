@@ -1,8 +1,8 @@
-<h2>Инструкция использования</h2><br>
+<h2>Instructions for use</h2><br>
 <ol>
-	<li>Ввести количество уравнений системы</li>
-	<li>Инициализировать элементы системы</li>
-	<li><b>Получить подробное решение</b></li>
+	<li>Enter the number of equations of the system</li>
+	<li>Initialize system elements</li>
+	<li><b>Get a detailed solution</b></li>
 </ol>
 
-Благодаря программе, и методу Данилевского вы получаете матрицу Фробениуса
+Thanks to the program, and the Danilevsky method, you get the Frobenius matrix
